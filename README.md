@@ -2,6 +2,7 @@
 This repo includes some of the personal interesting machine learning projects that I have designed or practiced
 
 # Project Overview 
+* Titanic Dataset EDA and Prediction
 * Amazon Dress Review Analytics
 * HR Data Explore
 * Store Front Data Explore 
